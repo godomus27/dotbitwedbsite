@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Chabane ALI" >
+    <title>Home | Dotb-It</title>
+	
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="Font-Awesome-master/css/font-awesome.min.css">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="bootImage/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="bootImage/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="bootImage/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="bootImage/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="bootImage/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+
+<body class="homepage">
+
+    <header id="header">
+        <div class="top-bar ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-4">
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +229 62 91 69 42/+229 21 30 92 62</p></div>
+                    </div>
+                    <div class="col-sm-6 col-xs-8">
+                       <div class="social">
+                            <ul class="social-share">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                            </ul>
+                            <div class="search">
+                                <form role="form">
+                                    <input type="text" class="search-form" autocomplete="off" placeholder="Search">
+                                    <i class="fa fa-search"></i>
+                                </form>
+                           </div>
+                       </div>
+                    </div>
+                </div>
+            </div><!--/.container-->
+        </div><!--/.top-bar-->
+		<!--Bar de navigation-->
+        <nav class="navbar navbar-inverse page page-navigation " role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"> dotB-IT </a>
+                </div>
+				
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html">Accueil</a></li>
+                        <li><a href="#features">Nos Services</a></li>
+                        <li><a href="#services">Nos réalisation</a></li>
+                        <!--<li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="blog-item.html">Blog Single</a></li>
+                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="404.html">404</a></li>
+                                <li><a href="shortcodes.html">Shortcodes</a></li>
+                            </ul>
+                        </li>-->
+                        <li><a href="#about-us">Qui sommes nous</a></li>
+                        <li><a href="#contact-page">Contact</a></li> 
+                        
+                     
+                       
+                         
+                                               
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+		
+    </header><!--/header-->
+
+    <section id="main-slider" class="no-margin">
+        <div class="carousel slide">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+
+                <div class="item active" style="background-image: url(bootImage/slider/04.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">Le rond point de la technologie au Bénin</h1>
+                                    <h2 class="animation animated-item-2">Avec dotB-IT vous avez des services ingénieux, utiles et adaptés à notre nouveau monde 100% connecté. dotB-IT concilie la compréhension des idées et besoins consommateurs, des affaires et des technologies.</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                </div>
+                            </div>
+
+                         
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                <div class="item" style="background-image: url(bootImage/slider/05.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">Le rond point de la technologie au Bénin</h1>
+                                    <h2 class="animation animated-item-2">Avec dotB-IT vous avez des services ingénieux, utiles et adaptés à notre nouveau monde 100% connecté. dotB-IT concilie la compréhension des idées et besoins consommateurs, des affaires et des technologies.</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                </div>
+                            </div>
+
+                          
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                <div class="item" style="background-image: url(bootImage/slider/07.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">Le rond point de la technologie au Bénin</h1>
+                                    <h2 class="animation animated-item-2">Avec dotB-IT vous avez des services ingénieux, utiles et adaptés à notre nouveau monde 100% connecté. dotB-IT concilie la compréhension des idées et besoins consommateurs, des affaires et des technologies.</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div><!--/.item-->
+            </div><!--/.carousel-inner-->
+        </div><!--/.carousel-->
+        <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+            <i class="fa fa-chevron-left"></i>
+        </a>
+        <a class="next hidden-xs" href="#main-slider" data-slide="next">
+            <i class="fa fa-chevron-right"></i>
+        </a>
+    </section><!--/#main-slider-->
+
+    <section id="features" >
+        <div class="container">
+           <div class="center wow fadeInDown">
+                 <h2>Nos Services</h2>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            </div>
+
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-institution"></i>
+                            <h2>Entreprises</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-comments"></i>
+                            <h2>Communication </h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-file-code-o"></i>
+                            <h2>Logiciel</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-desktop"></i>
+                            <h2>Informatique</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-mobile-phone"></i>
+                            <h2>Services Mobiles</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+		        <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-lock"></i>
+                            <h2>Sécurité</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+		<div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class=" 	fa fa-file-word-o"></i>
+                            <h2>Web Application</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-cloud"></i>
+                            <h2>Cloud</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+		        <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-cogs"></i>
+                            <h2>Outsourcing</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-database"></i>
+                            <h2>Base de Donnée</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-server"></i>
+                            <h2>Data Center</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-phone"></i>
+                            <h2>Support Technique</h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+ 		 
+                
+                </div><!--/.services-->
+            </div><!--/.row-->   
+        </div><!--/.container-->
+    </section><!--/#feature-->
+
+   <!-- <section id="recent-works">
+        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Recent Works</h2>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item1.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a> </h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item2.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div> 
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item3.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme </a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item4.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme </a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+                
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item5.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item6.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme </a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div> 
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item7.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme </a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="bootImage/portfolio/recent/item8.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme </a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="bootImage/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>
+                </div>   
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#recent-works-->-->
+
+    <section id="services" class="service-item">
+	   <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Nos réalisations</h2>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" style="width:81px;heigth:81px" src="bootImage/services/Monitoring-icon.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading"></h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" src="bootImage/services/services2.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" src="bootImage/services/services3.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div>
+                    </div>
+                </div>  
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" src="bootImage/services/services4.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" src="bootImage/services/services5.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="img-responsive" src="bootImage/services/services6.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div>
+                    </div>
+                </div>                                                
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#services-->
+
+    
+   <section id="content"> 
+        <div class="container">
+		
+				<div class="center wow fadeInDown">
+					<h2>NOS SOLUTIONS</h2>
+				</div>
+				 <div class="col-sm-12 wow fadeInDown">
+                    <div class="accordion">
+                        <h2>Avec dotB-IT vous avez des services ingénieux, utiles et adaptés à notre nouveau monde 100% connecté. dotB-IT concilie la compréhension des idées et besoins consommateurs, des affaires et des technologies.</h2>
+                        <div class="panel-group" id="accordion1">
+                          <div class="panel panel-default">
+                            <div class="panel-heading active">
+                              <h3 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">
+                                  -:- Monitoring
+                                  <i class="fa fa-angle-right pull-right"></i>
+                                </a>
+                              </h3>
+                            </div>
+
+                            <div id="collapseOne1" class="panel-collapse collapse in">
+                              <div class="panel-body">
+                                  <div class="media accordion-inner">
+                                        <div class="pull-left">
+                                            <img class="img-responsive" src="bootImage/1.png">
+                                        </div>
+                                        <div class="media-body">
+                                             <h4>-:- Description</h4>
+                                             <p>dotB-IT dans sa division OpenEnterPrise, est spécialisée dans la mise en place de solution de supervision réseaux avec les remontées d’alertes. 
+                                             Dans ce cadre, nous avons bâti une plateforme de surveillance réseau à base d’outils Open Source que mettons à la disposition de nos clients.
+                                              Grâce à dotB-Control, ne manquez plus aucun événement qui survient dans votre infrastructure.
+                                               Lorsque nous améliorons votre réactivité, vous garantissez la constance et la qualité des services que vous fournissez à vos utilisateurs. </p>
+                                               <table class="table" border="1">
+                                               	<tr class="table-active">
+																	<td><strong>Services</strong></td>
+																	<td><strong>Détails</strong></td>                                               	
+                                               	</tr>
+                                               	<tr class="success">
+															   	<td>NetMonitor</td>
+																	<td>Connaître l’état en temps réel du réseau</td>                                   	
+                                               	</tr>
+                                               	<tr>
+															   	<td>ResMonitor</td>
+																	<td>Connaître l’état des composants matériels et leur niveau d’utilisation</td>                                   	
+                                               	</tr>
+                                               	<tr class="success">
+															   	<td>AppMonitor </td>
+																	<td>Connaître l’état en temps réel des applications et services corporatifs </td>                                   	
+                                               	</tr>
+                                               	<tr>
+															   	<td>SMS-AlarmSender</td>
+																	<td>Plateforme de collecte et d’envoi d’alertes par SMS</td>                                   	
+                                               	</tr>
+                                               	<tr class="success">
+															   	<td>eMail-AlarmSender</td>
+																	<td>Plateforme de collecte et d’envoi d’alertes par email</td>                                   	
+                                               	</tr>
+                                               	<tr>
+															   	<td>Voice-AlarmSender</td>
+																	<td>Plateforme de collecte et d’envoi d’alertes par message vocal sur les téléphones fixes et mobiles</td>                                   	
+                                               	</tr>
+                                               	<tr class="success">
+															   	<td>Fax-AlarmSender</td>
+																	<td>Plateforme de collecte et d’envoi d’alertes par Fax</td>                                   	
+                                               	</tr>
+                                               	<tr>
+															   	<td>CRM-Connect </td>
+																	<td>Gestion de tickets, base de connaissances, suivi avec les outils CRM</td>                                   	
+                                               	</tr>
+                                               </table>
+                                               <h4>-:- Fonctionnalités</h4>
+                                               <ul>
+																	<li>Monitoring des équipements actifs du réseau (routeur, firewall, commutateur, onduleur et tout autre équipement actif du réseau) ;</li>                                               
+                                               		<li>Monitoring de serveurs, des applications ou services (OS, Hardware, services critiques) ;</li>
+                                               		<li>Monitoring de tout type de base de données ;</li>
+                                               		<li>Module de notification par SMS, Email, Appel Audio sur téléphone fixe et mobile ;</li>
+                                               		<li>Tableaux de bord, envoi automatique de rapport ;</li>
+                                               		<li>Accès web HTTPS, Modèle Client/Server, Protocol SNMPv3</li>
+                                               		<li>Intégration CRM pour la gestion des incidents (ouverture automatique de ticket) ;</li>
+                                               		<li>Accessible 24H/24 7j/7.</li>
+                                               		<li>Déploiement On-site (Installation locale)</li>
+																	<li>Accessible 24H/24 7j/7.</li>
+                                               </ul> </br>
+                                               <h4>-:- Déploiement</h4>
+                                               <img src="bootImage/monitoring.png" class="img-responsive" alt="">
+                                        </div>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h3 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">
+                                  -:- Mobile Services
+                                  <i class="fa fa-angle-right pull-right"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id="collapseTwo1" class="panel-collapse collapse">
+                              <div class="panel-body">
+                              	<div class="pull-left">
+                                  <img class="img-responsive" src="bootImage/2.jpg">
+                             		</div>
+                                dotB-IT dans sa division Mobile est spécialisé dans la conception et le développement des services mobiles.
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                            	
+                              <h3 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
+                                 -:- Plaque+
+                                  <i class="fa fa-angle-right pull-right"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id="collapseThree1" class="panel-collapse collapse">
+                              <div class="panel-body">
+                              	<div class="pull-left">
+                                  <img class="img-responsive" src="bootImage/4.jpg">
+                             		</div>
+                                Plaque+ est une plateforme mobile de suivi des dossiers d’immatriculation des véhicules qui permet aux usagers de disposer d’information en temps réel sur le déroulement de la procédure d’immatriculation.
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                            	
+                              <h3 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">
+                                 -:- Case Studies
+                                  <i class="fa fa-angle-right pull-right"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id="collapseFour1" class="panel-collapse collapse">
+                              <div class="panel-body">
+                              <div class="pull-left">
+                                 <img class="img-responsive" style="width:160px;heigth:180px;margin-rigth:5px" src="bootImage/3.png">
+                             	</div>
+                              Avec dotB-IT  élaborer une feuille de route afin de créer une infrastructure informatique flexible et efficace centrée sur la valeur apportée au métier. Nous vous permettons aussi de planifier et concevoir un environnement de serveur plus consolidé, plus souple et plus résilient.
+                              </div>
+                            </div>
+                          </div>
+                        </div><!--/#accordion1-->
+                    </div>
+                </div>
+           
+
+
+           
+        </div><!--/.container-->
+    </section><!--/#content-->
+
+
+      <section id="partner">
+        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Nos partenaires</h2>
+                
+            </div>    
+
+            <div class="partners">
+                <ul>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="width:150px ; height:70px "  src="bootImage/partners/ollo.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" style="width:150px  ; height:70px " src="bootImage/partners/payme.jpg"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" style="width:150px  ; height:70px " src="bootImage/partners/B2SI-final.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" style="width:150px  ; height:70px " src="bootImage/partners/reexo-logo-og.jpg"></a></li>
+		      <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="width:150px ; height:70px "  src="bootImage/partners/ollo.png"></a></li>
+
+                </ul>
+            </div>        
+        </div><!--/.container-->
+    </section><!--/#partner-->
+
+    
+    
+    
+    <!--Section pour qui sommes nous--> 
+	 
+    <section id="about-us">
+        <div class="container">
+
+			<!-- Our Skill -->
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<h2>NOS COMPETENCES</h2>
+					<p class="lead"> Les Langages que nous développons </p>
+				</div>
+				
+				<div class="row">
+		
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="html-skill">                                   
+								<p><em>100%</em></p>
+								<p>Web</p>
+								<p style="font-size: 10px"> HTML5 CSS3 JAVASCRIPT PHP</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>95%</em></p>
+								<p>Mobile</p>
+								<p style="font-size: 10px">ANDROID IOS WINDOWS</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="html-skill">                                    
+								<p><em>95%</em></p>
+								<p>DBA</p>
+								<p style="font-size: 10px">SQL No-Sql</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+							<div class="wp-skill">
+								<p><em>100%</em></p>
+								<p>UNIX/LINUX</p> 
+								<p style="font-size: 10px"> APT YUM ZIPPER BREW</p>                                    
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+				<div class="row">
+		
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>100%</em></p>
+								<p>WINDOWS</p>
+								<p style="font-size: 10px"> SERVER DESKTOP</p>
+							
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>95%</em></p>
+								<p>CLOUD</p>
+								<p style="font-size: 10px"> AWS DOCKER OPENSTACK</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>100%</em></p>
+								<p>VIRTUALISATION</p>
+								<p style="font-size: 10px">VMWARE PROXMOX VAGRANT</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+							<div class="wp-skill">
+								<p><em>85%</em></p>
+								<p>ORCHESTRATION</p>    
+								<p style="font-size: 10px">ANSIBLE PUPPET CHEF</p>                                 
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+				<div class="row">
+		
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>100%</em></p>
+								<p>IAAS</p>
+								<p style="font-size: 10px"> CLUSTER DATACENTER</p>
+							
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>95%</em></p>
+								<p>MICROSERVICES</p>
+								<p style="font-size: 10px"> DOCKER OPENSHIF JUJU</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>80%</em></p>
+								<p>BIG DATA</p>
+								<p style="font-size: 10px">HADOOP CASSANDRA</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+							<div class="wp-skill">
+								<p><em>100%</em></p>
+								<p>WINDEV</p>    
+								<p style="font-size: 10px">WEB MOBILE</p>                                 
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+				
+            </div><!--/.our-skill-->
+			
+
+			<!-- our-team -->
+			<div class="team">
+				<div class="center wow fadeInDown">
+					<h2>L'EQUIPE DOTBIT</h2>
+					<p class="lead">Notre équipe est composée des personnes suivantes : </p>
+				</div>
+
+				<div class="row clearfix">
+					<div class="col-md-3 col-sm-6 col-lg-3">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px;height:250px" src="bootImage/maxime.jpg" alt=""></a></center>
+								</div>
+								</br>
+								<div class="media-body"> 
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div><!--/.col-lg-4 -->
+					
+					
+					<div class="col-md-3 col-sm-6 col-lg-3 col-sm-offset-1">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px;height:250px" src="bootImage/wilfried-martin.png" alt=""></a></center>
+								</div>
+								</br>
+								<div class="media-body">
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div><!--/.col-lg-4 -->
+					<div class="col-md-3 col-sm-6 col-lg-3 col-md-offset-1">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px;height:250px" src="bootImage/index.jpeg" alt=""></a></center>
+								</div>
+								</br>
+								<div class="media-body">
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of  passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div><!--/.col-lg-4 -->
+			
+				</div> <!--/.row -->
+
+				<div class="row team-bar">
+					<div class="first-one-arrow hidden-xs">
+						<hr>
+					</div>
+					<div class="first-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="second-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+					<div class="third-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="fourth-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+				</div> <!--skill_border-->       
+
+				<div class="row clearfix">   
+					<div class="col-md-3 col-sm-6 col-lg-3 col-md-offset-1">	
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px" src="bootImage/man3.jpg" alt=""></a><center>
+								</div>
+								</br>
+								<div class="media-body">
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 col-lg-3 col-md-offset-1">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px" src="bootImage/man4.jpg" alt=""></a></center>
+								</div>
+								</br>
+								<div class="media-body">
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-6 col-lg-3 col-md-offset-1">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="">
+									<center><a href="#"><img class="media-object" style="width:250px" src="bootImage/man4.jpg" alt=""></a></center>
+								</div>
+								</br>
+								<div class="media-body">
+									<h4>Jhon Doe</h4>
+									<h5>Founder and CEO</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Web</a></li>
+										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+						</div>
+					</div>					
+					
+				</div>	<!--/.row-->
+
+			
+		</div><!--/.container-->
+    </section><!--/about-us-->
+
+	<!--section pour contact
+		Formulaire de contact	
+	
+	-->
+	<section id="contact-page">
+        <div class="container">
+            <div class="center">        
+                <h2>Laissez votre message</h2>
+                <p class="lead">Remplissez le formulaire ci-dessous pour nous contacter.</p>
+            </div> 
+            <div class="row contact-wrap"> 
+                <div class="status alert alert-success" style="display: none"></div>
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+                    <div class="col-sm-5 col-sm-offset-1">
+                        <div class="form-group">
+                            <label>Name *</label>
+                            <input type="text" name="name" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Email *</label>
+                            <input type="email" name="email" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Phone</label>
+                            <input type="number" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label>Company Name</label>
+                            <input type="text" class="form-control">
+                        </div>                        
+                    </div>
+                    <div class="col-sm-5">
+                        <div class="form-group">
+                            <label>Subject *</label>
+                            <input type="text" name="subject" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Message *</label>
+                            <textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
+                        </div>                        
+                        <div class="form-group">
+                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Envoyer Message</button>
+                        </div>
+                    </div>
+                </form> 
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#contact-page-->
+
+	
+
+    <section id="bottom">
+        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>Company</h3>
+                        <ul>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">We are hiring</a></li>
+                            <li><a href="#">Meet the team</a></li>
+                            <li><a href="#">Copyright</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="#">Contact us</a></li>
+                        </ul>
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>Support</h3>
+                        <ul>
+                            <li><a href="#">Faq</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Forum</a></li>
+                            <li><a href="#">Documentation</a></li>
+                            <li><a href="#">Refund policy</a></li>
+                            <li><a href="#">Ticket system</a></li>
+                            <li><a href="#">Billing system</a></li>
+                        </ul>
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>Developers</h3>
+                        <ul>
+                            <li><a href="#">Web Development</a></li>
+                            <li><a href="#">SEO Marketing</a></li>
+                            <li><a href="#">Theme</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Email Marketing</a></li>
+                            <li><a href="#">Plugin Development</a></li>
+                            <li><a href="#">Article Writing</a></li>
+                        </ul>
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        <h3>Our Partners</h3>
+                        <ul>
+                            <li><a href="#">Adipisicing Elit</a></li>
+                            <li><a href="#">Eiusmod</a></li>
+                            <li><a href="#">Tempor</a></li>
+                            <li><a href="#">Veniam</a></li>
+                            <li><a href="#">Exercitation</a></li>
+                            <li><a href="#">Ullamco</a></li>
+                            <li><a href="#">Laboris</a></li>
+                        </ul>
+                    </div>    
+                </div><!--/.col-md-3-->
+            </div>
+        </div>
+		
+		
+    </section><!--/#bottom-->
+	
+		<!--pied de page-->
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2017 <a target="_blank" href="index.html" title="DOTB-IT">DOTB-IT</a>. All Rights Reserved.
+                </div>
+                <!--Bouton de retour
+		
+		 en haut-->
+		<a href=”#” class=”back-to-top” style=”display: inline;”>
+			<i class=”fa fa-arrow-circle-up”></i>
+		</a>        
+       <a href="#" class="back-to-top fa-arrow-circle-up">Back to Top</a> 
+        
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Faq</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </footer><!--/#footer-->
+    
+	
+	
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.combinedScroll.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/wow.min.js"></script>
+    <!--Fonction pour defilement au click d'une section-->
+    <script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$('.page-navigation').onePageNav();
+		});
+	</script>
+	
+	<script type="text/javascript">
+		$('body').prepend('<a href="#" class="back-to-top fa-arrow-circle-up">Back to Top</a>');
+	</script>
+	
+	<!--fonction pour le bouon de retour en haut-->
+	<script>
+ 
+jQuery(document).ready(function() {
+ var offset = 250;
+ var duration = 300;
+ 
+jQuery(window).scroll(function() {
+ if (jQuery(this).scrollTop() > offset) {
+ 	jQuery('.back-to-top').fadeIn(duration);
+	} else {
+		jQuery('.back-to-top').fadeOut(duration);
+ 	}
+ 
+});
+ 
+jQuery('.back-to-top').click(function(event) {
+ 	event.preventDefault();
+ 	jQuery('html, body').animate({scrollTop: 0}, duration);
+ 	return false;
+ 	})
+ 
+});
+ 
+</script>
+
+</body>
+</html>
