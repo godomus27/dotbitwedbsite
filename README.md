@@ -1,2 +1,3 @@
-Site de dotB-IT developper avec HTML5 et CSS3
-Il faut juste un domaine un serveur web
+Site de dotB-IT build with HTML5 and CSS3
+You will need ony you domain nam et staticweb hosting.
+
